@@ -26,12 +26,12 @@ Preview the prototype.
 
 
 ## WIREFRAME:
-![output](./img/proto1.jpg)
+![output](./img/wire1.jpg)
 
 
 
 ## PROTOTYPE:
-![output](./img/wire1.jpg)
+![output](./img/proto1.jpg)
 
 
 
